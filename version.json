@@ -1,7 +1,1 @@
-{
-  "version": "1.0.2",
-  "url": "https://github.com/masongnguyen-ai/Revkit/releases/download/v1.0.2/RevKit-Setup.zip",
-  "sha256": "fe89545dad32e35a7837de77d7118c2872a7382064655346a2dd469ba4e66e7a",
-  "notes": "Nút Cập nhật tải bộ cài từ repo GitHub công khai.",
-  "signature": "olS0zQ0D6AzG579PnJKr2sBzLbq4LwFTV/Sg57TRuMYr9rUp4k/dKgXd4JrrPQTVn2zy7P1m3mp2ALsrscksysLqJNoD/gmakr9fyxh8cMfdxPmuyJAh13RNBqbzqBMyEQeiR5FiBla1frOWY/kYnJLLiFRh24rtR0TneuoXSpFmI+8VJBgA2NxrBIeVEpUJ5ZbK4WJnMa26rWtc34Zfm2y8p+6eF8UAca9MaYjR6r2wYJY8FJ9/E3KJoURGsvFtNRaH/1pDzR8cVeRbSe1HbqVEtwUvrtlfWSoiBBjNMOHlB4TvE/d7IcVRMhTilwZSrdKUwqB2lcuxIAV+tqF5Tg=="
-}
+{"version":"1.0.3","url":"https://github.com/masongnguyen-ai/Revkit/releases/download/v1.0.3/RevKit-Setup.zip","sha256":"bb8d406ca447361c1d6acefd7087516902b1c7e9343584a834669e37ff63f5b0","notes":"Đổi tên thành Revkit_NC. Sửa level dời ống theo cao độ level mới.","signature":"nLizFATrbw9yA3+zVHicnhVwmXFnfmoy6NYmy+FVA9K7CjYOFG3ktbR9+kn003ITQQggStizGAkegNXcWcrOLcJbVAFWLWHDkOWjUaL1HZLeyULjEtba4pPv9hBFMq2j7JuKM0h2VnhwLXQu3Lxv1OVoD6Aue5SVL4S2pvPyM2GwADbT4nTgIe+qMBuzw6ymyuR4BosiQetfBdhwhEmcId/bT+gtjHmzyl94Rqi37kFO9JQ3Az4AJSx/GJcbmW4TcpPDs9tUhCn+7wKQLIUO0OPrlkRFctkbvCX7PU8JAEHFcidcrN+ZjqMEyvFPpxELoDa9nOAJNg6O3WEpcjUECw=="}
